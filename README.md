@@ -22,6 +22,7 @@ The goal of this assignment was to create a note taker app using existing code a
 - Ran the application to make sure it worked
 
 
-- GitHub Link:
-- Deployed App Link: 
+- GitHub Link: https://github.com/amnindersinghk/express-js-note-taker
+- Deployed App Link:
+  
 Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used google for questions.
