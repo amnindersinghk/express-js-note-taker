@@ -19,11 +19,9 @@ The goal of this assignment was to create a note taker app using existing code a
 - Added GET and POST api routes.
 
 #### Step 6
-- Ran the application to make sure it worked and deployed to heroku.
+- Ran the application to make sure it worked
 
-#### Result
-- See Note Taker Preview here:
-- Preview: ![Express-JS-Note-Taker](<Images/Screenshot 2024-01-01 at 3.23.28 PM.png>)
-- GitHub Link: (https://github.com/aqtagon/Express-JS-Note-Taker-Homework)
-- Deployed App Link: https://salty-cliffs-23949-2eea8d7715c6.herokuapp.com/notes
-Note: Got assistance from Cuitlahuac Hernandez from class and used chatgpt and google for questions.
+
+- GitHub Link:
+- Deployed App Link: 
+Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used google for questions.
